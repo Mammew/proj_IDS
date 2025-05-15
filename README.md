@@ -1,9 +1,9 @@
 # The Football Lab: Predicting Player Impact by Position
 
 Questo progetto analizza statisticamente i dati dei calciatori delle principali leghe europee nelle stagioni 2021-2022 e 2022-2023, con l'obiettivo di prevedere l'impatto dei giocatori in base al ruolo.
+
 ## Link ai datasets
 21-22 dataset: https://www.kaggle.com/datasets/vivovinco/20212022-football-player-stats
- 
 22-23 dataset: https://www.kaggle.com/datasets/vivovinco/20222023-football-player-stats?resource=download
 
 ## Contenuti
@@ -12,7 +12,7 @@ Questo progetto analizza statisticamente i dati dei calciatori delle principali 
   Importazione, normalizzazione e selezione delle colonne rilevanti dai dataset originali.
 
 - **Analisi Esplorativa:**  
-  Visualizzazione della distribuzione dei minuti giocati, assist e goal per ruolo.
+  Visualizzazione della distribuzione dei minuti giocati e assist per ruolo.
 
 - **OLAP:**  
   Analisi multidimensionale delle statistiche (es. assist, età, minuti) tramite cubi OLAP.
